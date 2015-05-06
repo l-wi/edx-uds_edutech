@@ -225,8 +225,5 @@ $video-thumb-url: '../themes/uds_edutech/images/edx.png';
 // Tim changes
 //-----------------
 
-.title{
-	visibility:hidden;
-}
 
 
